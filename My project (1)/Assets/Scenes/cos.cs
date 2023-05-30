@@ -7,7 +7,7 @@ public class cos : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        public int des;
     }
 
     // Update is called once per frame
